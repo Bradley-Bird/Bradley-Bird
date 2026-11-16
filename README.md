@@ -2,7 +2,7 @@
 
 I build AI systems and run them in production.
 
-I'm the sole engineer on a restaurant's operations platform in Seaside, Oregon — 75 Postgres tables, live Stripe payments, staff logging in every shift. I also tend bar there, so I watch people use the software I wrote and hear about it the same night when it's wrong. Best feedback loop I've had.
+I'm the sole engineer on a restaurant's software in Seaside, Oregon. The public site has been its production site since 2023. Behind it is an operations platform, now in final testing ahead of staff rollout: more than 80 Postgres tables with row-level security on every one, and Stripe payments verified end to end in test mode. I also tend bar there, so I hear about it the same night when something is confusing or wrong. Best feedback loop I've had.
 
 The rest of my time goes to AI infrastructure.
 
@@ -13,6 +13,10 @@ The rest of my time goes to AI infrastructure.
 Most of that lives in private repos, so this profile shows a lot less than the contribution graph does.
 
 Lately I care most about the unglamorous part — making sure a model's output is right before anyone acts on it.
+
+Before the lab I was a teaching assistant at Alchemy Code Lab, reviewing code and debugging alongside cohorts of up to 25 students, and I've worked hotel front desks and bars since 2018. Explaining a technical problem to someone who is having a bad night is a part of the job I already know.
+
+**Open to remote work:** technical support and support engineering, applied AI, and web development.
 
 **Working with:** TypeScript · React · Next.js · Node · Supabase / Postgres · Linux · Python (I read and modify it more than I write it)
 
